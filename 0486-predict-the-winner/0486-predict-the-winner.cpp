@@ -1,17 +1,37 @@
 class Solution {
 public:
 
-    int solve(vector<int>& nums, int left, int right) {
+    int solve(vector<int>& nums, int left, int right, bool player1) {
 
-        if (left == right)
-            return nums[left];
+        if (left > right)
+            return 0;
 
-        int pickLeft = nums[left] - solve(nums, left + 1, right);
-        int pickRight = nums[right] - solve(nums, left, right - 1);
+        if (player1) {
 
-        return max(pickLeft, pickRight);
+            int takeLeft = nums[left] + solve(nums, left + 1, right, false);
+            int takeRight = nums[right] + solve(nums, left, right - 1, false);
+
+            return max(takeLeft, takeRight);
+        }
+        else {
+
+            int takeLeft = solve(nums, left + 1, right, true);
+            int takeRight = solve(nums, left, right - 1, true);
+
+            return min(takeLeft, takeRight);
+        }
     }
+
     bool predictTheWinner(vector<int>& nums) {
-        return solve(nums, 0, nums.size() - 1) >= 0;
+
+        int total = 0;
+
+        for (int x : nums)
+            total += x;
+
+        int player1 = solve(nums, 0, nums.size() - 1, true);
+        int player2 = total - player1;
+
+        return player1 >= player2;
     }
 };
