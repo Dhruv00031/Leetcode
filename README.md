@@ -62,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Dhruv00031/Leetcode/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/Dhruv00031/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
