@@ -6,8 +6,8 @@ public:
 
         int i = 0;
         while(i + 1 < nums.size() && nums[i + 1] == nums[i] + 1){
+            biggest += nums[i + 1];
             i++;
-            biggest += nums[i];
         }
         total = biggest;
 
