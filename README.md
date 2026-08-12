@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv00031/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv00031/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv00031/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Dhruv00031/Leetcode/tree/master/3731-find-missing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dhruv00031/Leetcode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1406-stone-game-iii](https://github.com/Dhruv00031/Leetcode/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv00031/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv00031/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dhruv00031/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv00031/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv00031/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
