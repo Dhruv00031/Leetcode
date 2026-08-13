@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Dhruv00031/Leetcode/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhruv00031/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Dhruv00031/Leetcode/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Dhruv00031/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3475-dna-pattern-recognition](https://github.com/Dhruv00031/Leetcode/tree/master/3475-dna-pattern-recognition) |
 ## Minimax
 |  |
