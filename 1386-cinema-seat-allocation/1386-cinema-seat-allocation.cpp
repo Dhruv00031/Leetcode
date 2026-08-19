@@ -39,7 +39,7 @@ public:
 
             if (left && right) {
             }
-            
+
             else if (left || middle || right) {
                 answer--;
             }
@@ -51,3 +51,10 @@ public:
         return answer;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
