@@ -10,7 +10,6 @@ Array.prototype.last = function() {
     else{
         return this.at(-1)
     }
-    
 };
 
 /**
