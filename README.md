@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv00031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv00031/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Dhruv00031/Leetcode/tree/master/0486-predict-the-winner) |
+| [0724-find-pivot-index](https://github.com/Dhruv00031/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Dhruv00031/Leetcode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Dhruv00031/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
