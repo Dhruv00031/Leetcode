@@ -6,11 +6,11 @@ public:
         int e = n - 1;
         int mid = 1;
 
-        while(s < e){
+        while(s <= e){
             mid = s + (e - s) / 2;
 
             if(arr[mid] > arr[mid + 1]){
-                e = mid;
+                e = mid - 1;
             }
             else{
                 s = mid + 1;
