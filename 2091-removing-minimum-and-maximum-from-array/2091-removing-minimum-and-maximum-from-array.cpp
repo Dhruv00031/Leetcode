@@ -22,10 +22,13 @@ public:
             }
         }
 
+        //Both from left
         int option1 = max(before1, before2) + 1;
 
+        //Both from right
         int option2 = max(after1, after2) + 1;
 
+        //One each side
         int option3 = min(before1, before2) + 1 + min(after1, after2) + 1;
 
         return min({option1, option2, option3});
