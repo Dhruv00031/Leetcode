@@ -1,36 +1,18 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-        if(nums.size() == 1) return 1;
-
-        int before1 = 0, after1 = 0;
-        int before2 = 0, after2 = 0;
         int n = nums.size();
 
-        int maxm = *max_element(nums.begin(), nums.end());
-        int minm = *min_element(nums.begin(), nums.end());
+        int maxm = max_element(nums.begin(), nums.end()) - nums.begin();
+        int minm = min_element(nums.begin(), nums.end()) - nums.begin();
 
-        for(int i = 0; i < n; i++){
-            if(nums[i] == maxm){
-                before1 = i;
-                after1 = n - i - 1;
-            }
+        int left = min(maxm, minm);
+        int right = max(maxm, minm);
 
-            if(nums[i] == minm){
-                before2 = i;
-                after2 = n - i - 1;
-            }
-        }
+        int bothLeft = right + 1;
+        int bothRight = n - left;
+        int bothSides = left + 1 + n - right;
 
-        //Both from left
-        int option1 = max(before1, before2) + 1;
-
-        //Both from right
-        int option2 = max(after1, after2) + 1;
-
-        //One each side
-        int option3 = min(before1, before2) + 1 + min(after1, after2) + 1;
-
-        return min({option1, option2, option3});
+        return min({bothLeft, bothRight, bothSides});
     }
 };
