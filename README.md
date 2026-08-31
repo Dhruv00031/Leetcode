@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Dhruv00031/Leetcode/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/Dhruv00031/Leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Dhruv00031/Leetcode/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Dhruv00031/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhruv00031/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Dhruv00031/Leetcode/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Dhruv00031/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
