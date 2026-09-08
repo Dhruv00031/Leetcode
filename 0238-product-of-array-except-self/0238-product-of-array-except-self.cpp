@@ -6,7 +6,7 @@ public:
 
         int left_pro = 1;
         for(int i = 0; i < n; i++){
-            ans[i] = left_pro;
+            ans[i] *= left_pro;
             left_pro *= nums[i];
         }
 
