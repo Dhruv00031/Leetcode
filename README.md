@@ -53,15 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhruv00031/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv00031/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhruv00031/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv00031/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Dhruv00031/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhruv00031/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv00031/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
