@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv00031/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Dhruv00031/Leetcode/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/Dhruv00031/Leetcode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Dhruv00031/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Dhruv00031/Leetcode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Dhruv00031/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv00031/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
