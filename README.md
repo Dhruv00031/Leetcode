@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruv00031/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Dhruv00031/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Dhruv00031/Leetcode/tree/master/0443-string-compression) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Dhruv00031/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dhruv00031/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhruv00031/Leetcode/tree/master/1406-stone-game-iii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv00031/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
