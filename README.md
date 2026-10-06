@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dhruv00031/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dhruv00031/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Dhruv00031/Leetcode/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv00031/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv00031/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv00031/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv00031/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Dhruv00031/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv00031/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv00031/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv00031/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv00031/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
