@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv00031/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhruv00031/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Dhruv00031/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Dhruv00031/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv00031/Leetcode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhruv00031/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhruv00031/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dhruv00031/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dhruv00031/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Dhruv00031/Leetcode/tree/master/0486-predict-the-winner) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhruv00031/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv00031/Leetcode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Dhruv00031/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv00031/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
