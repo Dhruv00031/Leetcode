@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruv00031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dhruv00031/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dhruv00031/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dhruv00031/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv00031/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv00031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dhruv00031/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruv00031/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv00031/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv00031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruv00031/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv00031/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruv00031/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Dhruv00031/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv00031/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv00031/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv00031/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
