@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhruv00031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dhruv00031/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Dhruv00031/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dhruv00031/Leetcode/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruv00031/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dhruv00031/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dhruv00031/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Dhruv00031/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Dhruv00031/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Dhruv00031/Leetcode/tree/master/0877-stone-game) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv00031/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv00031/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv00031/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Ternary Search
 |  |
@@ -331,4 +335,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv00031/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhruv00031/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
