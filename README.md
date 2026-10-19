@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruv00031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv00031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv00031/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv00031/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhruv00031/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv00031/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv00031/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Dhruv00031/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruv00031/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Dhruv00031/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv00031/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv00031/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhruv00031/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv00031/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv00031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv00031/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv00031/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv00031/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv00031/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Pigeonhole Principle
 |  |
